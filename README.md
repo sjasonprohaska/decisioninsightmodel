@@ -1,7 +1,7 @@
 # Decision Insight Model Demo
 
 **Author:** S. Jason Prohaska  
-**Repository:** https://github.com/sjasonprohaska/decision-insight-model-demo  
+**Repository:** https://github.com/sjasonprohaska/decisioninsightmodel  
 **Live Demo:** [Decision Insight Model on ChatGPT](https://chatgpt.com/g/g-686f0346f0fc8191bd6cbba15a77d07e-decision-insight-model-demo)
 
 ## Overview
